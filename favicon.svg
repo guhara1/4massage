@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Four Massage dice favicon">
+  <rect width="64" height="64" rx="14" fill="#24372d"/>
+  <rect x="5" y="5" width="54" height="54" rx="11" fill="none" stroke="#c69d55" stroke-width="3"/>
+  <circle cx="19" cy="19" r="5" fill="#fffaf2"/>
+  <circle cx="45" cy="19" r="5" fill="#fffaf2"/>
+  <circle cx="19" cy="45" r="5" fill="#fffaf2"/>
+  <circle cx="45" cy="45" r="5" fill="#fffaf2"/>
+  <path d="M34 15 22 38h14v11h7V38h6v-7h-6V15h-9Zm2 16h-5l5-10v10Z" fill="#c69d55"/>
+</svg>
