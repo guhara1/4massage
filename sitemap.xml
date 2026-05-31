@@ -1,47 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://four-massage.co.kr/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://four-massage.co.kr/areas/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://four-massage.co.kr/service/price/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://four-massage.co.kr/service/process/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://four-massage.co.kr/faq/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://four-massage.co.kr/about.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://four-massage.co.kr/magazine.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-suwon-1.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-dongtan-1.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-dongtan-2.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-osan-1.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-osan-2.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-yeongtong-1.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-yeongtong-2.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-suwonstation-1.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-suwonstation-2.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-ingyedong-1.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-ingyedong-2.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-guundong-1.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-guundong-2.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-gwoldong-1.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-gwoldong-2.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-yongin-1.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-yongin-2.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-cheoingu-1.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-cheoingu-2.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-suji-1.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-suji-2.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-pogok-1.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-pogok-2.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-singal-1.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-singal-2.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-giheung-1.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-giheung-2.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-dongbaek-1.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-dongbaek-2.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-bundang-1.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-bundang-2.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-migeum-1.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-migeum-2.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-sunae-1.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-sunae-2.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-jeongja-1.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-jeongja-2.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-seohyeon-1.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://four-massage.co.kr/magazine/area-seohyeon-2.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://four-massage.co.kr/areas/suwon/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://four-massage.co.kr/areas/yeongtong/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://four-massage.co.kr/areas/suwon-station/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://four-massage.co.kr/areas/ingye-dong/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://four-massage.co.kr/areas/guun-dong/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://four-massage.co.kr/areas/dongtan/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://four-massage.co.kr/areas/osan/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://four-massage.co.kr/areas/gwol-dong/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://four-massage.co.kr/areas/yongin/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://four-massage.co.kr/areas/cheoin-gu/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://four-massage.co.kr/areas/suji/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://four-massage.co.kr/areas/pogok/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://four-massage.co.kr/areas/singal/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://four-massage.co.kr/areas/giheung/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://four-massage.co.kr/areas/dongbaek/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://four-massage.co.kr/areas/bundang/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://four-massage.co.kr/areas/migeum-station/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://four-massage.co.kr/areas/sunae-station/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://four-massage.co.kr/areas/jeongja-station/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://four-massage.co.kr/areas/seohyeon-station/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://four-massage.co.kr/magazine/post-deskwork-neck.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://four-massage.co.kr/magazine/post-first-visit-guide.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://four-massage.co.kr/magazine/post-leg-swelling.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
