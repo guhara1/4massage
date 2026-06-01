@@ -1,4 +1,4 @@
-User-agent: *
+﻿User-agent: *
 Allow: /
 
-Sitemap: https://four-massage.co.kr/sitemap.xml
+Sitemap: https://4massage.club/sitemap.xml
