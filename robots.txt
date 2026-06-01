@@ -1,4 +1,22 @@
-﻿User-agent: *
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+User-agent: NaverBot
+Allow: /
+
+User-agent: Daumoa
 Allow: /
 
 Sitemap: https://4massage.club/sitemap.xml
+Sitemap: https://4massage.club/sitemap1.xml
+Sitemap: https://4massage.club/sitemap-naver.xml
+Sitemap: https://4massage.club/rss.xml
