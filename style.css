@@ -1031,6 +1031,20 @@ h3{color:var(--deep)}
   justify-content:center;
 }
 
+.section:not(.dark) .steps li{
+  background:linear-gradient(180deg,var(--panel-strong),var(--panel));
+  border-color:rgba(31,58,45,.12);
+  box-shadow:var(--shadow-soft);
+}
+
+.section:not(.dark) .steps b{
+  color:var(--clay);
+}
+
+.section:not(.dark) .steps p{
+  color:#515b54;
+}
+
 @media(max-width:980px){
   .home-hero{
     grid-template-columns:1fr;
