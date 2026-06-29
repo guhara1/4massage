@@ -16,7 +16,7 @@ Allow: /
 User-agent: Daumoa
 Allow: /
 
-Sitemap: https://4massage.club/sitemap.xml
-Sitemap: https://4massage.club/sitemap1.xml
-Sitemap: https://4massage.club/sitemap-naver.xml
-Sitemap: https://4massage.club/rss.xml
+Sitemap: https://4massage.netlify.app/sitemap.xml
+Sitemap: https://4massage.netlify.app/sitemap1.xml
+Sitemap: https://4massage.netlify.app/sitemap-naver.xml
+Sitemap: https://4massage.netlify.app/rss.xml
